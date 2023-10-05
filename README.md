@@ -14,5 +14,4 @@ To complete this assignment please:
 9. Submit your assignment!
 
 If you have any questions bring them to the Thursday sessions of the Data Science in EES course.
-![rplot的副本2](https://github.com/EdDataScienceEES/test-assignment-ycy1012/assets/97912932/00556270-c3f8-4f8d-a594-f9c8a5634fc4)
-
+![IMAGE_DESCRIPTION](/Users/ycy/Desktop/test-assignment-ycy1012/rplot.jpg)
